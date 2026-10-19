@@ -60,9 +60,9 @@ Data Analyst with a **B.Com (Computer Applications)** background and hands-on pr
 | **AI-Powered Analytics for Financial Services** | EDA to isolate 5+ delinquency risk indicators; built a no-code GenAI risk-classification framework and a collections strategy with ethical AI principles | GenAI, EDA |
 | **Airline Operations Dashboard** | Analyzed 10,000 flight records across 20+ routes; built an Excel dashboard with 4 core KPIs | Excel |
 | **Data Analytics & BI Project** | Classified 1,000+ records, built a Tableau dashboard with 5+ metrics, and applied forensic analysis to flag anomalies | Excel, Tableau |
-| **TV Shows & Films Analysis** | Power BI dashboard | (.pbix) |
-| **Predictive Analytics on NVIDIA Historical Data** | Jupyter notebook |
-| **Website Traffic Analysis** | Jupyter notebook + written report |
+| **TV Shows & Films Analysis** |“I analyzed Netflix’s catalog of series and films to identify genre diversity, audience engagement patterns, and critical reception trends.” | Power BI |
+| **Predictive Analytics on NVIDIA Historical Data** | “I developed predictive models on NVIDIA’s historical stock data using regression and time‑series forecasting techniques to evaluate performance and visualize future trends.” | Jupyter notebook |
+| **Website Traffic Analysis** | “I analyzed website traffic logs using Python in Jupyter to compute engagement metrics, visualize user journeys, and delivered a written report with actionable recommendations to improve conversions.” | Jupyter notebook , Written report with Notebook |
 
 ### 🎓 Education
 - **B.Com, Computer Applications**: Shree Venkateshwara Institution, Bharathiar University
