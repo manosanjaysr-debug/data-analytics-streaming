@@ -61,7 +61,7 @@ Data Analyst with a **B.Com (Computer Applications)** background and hands-on pr
 | **Airline Operations Dashboard** | Analyzed 10,000 flight records across 20+ routes; built an Excel dashboard with 4 core KPIs | Excel |
 | **Data Analytics & BI Project** | Classified 1,000+ records, built a Tableau dashboard with 5+ metrics, and applied forensic analysis to flag anomalies | Excel, Tableau |
 
-> 🔗 Add repo links for each project, e.g. `[Repo](https://github.com/USERNAME/REPO)`.
+> 🔗 Add repo links for each project, e.g. 
 
 ### 🎓 Education
 - **B.Com, Computer Applications**: Shree Venkateshwara Institution, Bharathiar University
@@ -78,12 +78,6 @@ Data Analyst with a **B.Com (Computer Applications)** background and hands-on pr
 ### 🏆 Awards
 - All India Book of Records, Young Achiever Award (Jan 2022)
 - Rajya Puraskar Award, Certificate of Participation, Scouts & Guides (Jan 2022)
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ### 📫 Let's Connect
 Open to **data analyst roles, internships, and collaborations**. Reach me at **manosanjay.sr@gmail.com**.
