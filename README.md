@@ -78,7 +78,7 @@ Data Analyst with a **B.Com (Computer Applications)** background and hands-on pr
 
 ### 🏆 Awards
 - All India Book of Records, Young Achiever Award (Jan 2022)
-- Rajya Puraskar Award, Certificate of Participation, Scouts & Guides (Jan 2022)
+- Rajya Puraskar Award, Certificate of Participation, Scouts & Guides (2019)
 
 ### 📫 Let's Connect
 Open to **data analyst roles, internships, and collaborations**. Reach me at **manosanjay.sr@gmail.com**.
